@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1TQOIzgAbPIfnLcx8rSYei7c-QOcNbbIk/view?usp=shari
 - Uses machine learning techniques such as svm.
 - Evaluates model accuracy using classification metrics such as accuracy.
 
-# Feature Improvements
+# Future Improvements
 - Integrate deep learning models for improved predictions.
 - Deploy the model as a web or mobile application.
 - Use real-time medical data for enhanced insights.
