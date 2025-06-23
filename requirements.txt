@@ -4,3 +4,6 @@ scikit-learn
 joblib
 requests
 streamlit-lottie
+matplotlib
+pandas
+seaborn
