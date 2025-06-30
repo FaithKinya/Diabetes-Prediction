@@ -1,4 +1,3 @@
-This is the app.py code and i want you to make some corrections;
 import streamlit as st
 import numpy as np
 import joblib
